@@ -2,7 +2,7 @@
 
 Update this pull request title to:
 
-Next release, bump theme version v{{ current_version_number }} -> v.x.x.x
+`Next release, bump theme version v{{ current_version_number }} -> v.x.x.x`
 
 This branch serves as a place to keep all developement intended to be added to the next theme release.
 
@@ -13,7 +13,7 @@ Once a feature/fix has been approved and merged into this branch the list beneat
 
 Once a release is ready to be made follow the instructions in [Creating a release](#creating-a-release).
 
-## In this release
+## In this release <a id='in-this-release'></a>
 
 Items are prefixed with either [new] or [fix] if applicable for styling within the changelog on our [website](https://fluorescent.co/help/stiletto/changelog).
 If an item is linked to a nolt issue append the item with a nolt link: "[new] Add custom section padding [Nolt](https://lorenza-theme.nolt.io/)"
@@ -38,18 +38,19 @@ Using this branch follow the following instructions:
 
 - [ ] Update `release-notes.md` to reflect the list of "Changes" beneath [In this release](#in-this-release). This will include categorizing them and adding a version description
 - [ ] Update the version number in package.json
-- [ ] Update the version number in this pull requests title: Next release, bump theme version v{{ current_version_number }} -> v.{{ new_version_number }}
+- [ ] Update the version number in this pull requests title: `Next release, bump theme version v{{ current_version_number }} -> v.{{ new_version_number }}`
 - [ ] Run `yarn package` locally and install the theme via the zip created. Ensure the version number is accurate and the release not changes are in place
 - [ ] Attach the zip file to this pull request under [Theme file](#theme-file)
 - [ ] Submit to Shopify through the Fluorescent Design Inc. partners dashboard. Copy the [In this release](#in-this-release) changes into the update notes
 - [ ] Update the _Submitted to Shopify date_ under [submission-date](#submission-date)
 
-## Theme file
+## Theme file<a id='theme-file'></a>
 
-## Submission date
+## Submission date<a id='submission-date'></a>
+
 _Submitted to Shopify {{ date }}_
 
-## Creating a release
+## Creating a release<a id='creating-a-release'></a>
 
 Once these changes are approved by Shopify and released we can cut a github release.
 
@@ -65,8 +66,4 @@ Once these changes are approved by Shopify and released we can cut a github rele
 - The new release title will be `{{ new_version_number }}`
 - Paste the release notes copied above into the description. Ensure they are displayed as list items: `- [new] Add feature`
 - Add the approved theme zip found under [Theme file](#theme-file) into the release binaries
-- Publish release
-
----
-
-Merge all features/fixes into this branch. Merge once a feature/fix is finished, this will make any further development include the previous changes. Once a feature is merged, pull down this development branch and start your next branch off of it. Once all features/fixes are ready to be release, merge this branch into master and create a release.
+- Publish
