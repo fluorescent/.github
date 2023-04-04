@@ -1,6 +1,6 @@
 # Pull request templates
 
-To expand on this list of template see the [.github repository]()
+To expand on this list of template see the Fluorescent community health [repository](https://github.com/fluorescent/.github)
 
 ## Usage
 
