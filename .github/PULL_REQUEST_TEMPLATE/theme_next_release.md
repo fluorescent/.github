@@ -1,69 +1,40 @@
 # Usage
 
-Update this pull request title to:
+See [Next-release](https://www.notion.so/fluorescentdesigninc/Next-release-941a304da9674a549a63a2c93743ecff?pvs=4) full documentation.
 
-`Next release, bump theme version v{{ current_version_number }} -> v.x.x.x`
+- [ ] Update title to `Next release, bump theme version v{{ current_version_number }} -> v.x.x.x`
 
-This branch serves as a place to keep all developement intended to be added to the next theme release.
+## Change log
 
-All features/fixes that will be released in this themes next release should target "next-release" as a merge target when creating a pull request.
+- [new] Add new feature
+- [fix] Fix broken feature
+- Update random feature
 
-Once a feature/fix has been approved and merged into this branch the list beneath [In this release](#in-this-release) needs to be updated.
+_Delete this and the above examples the above when adding real change log items_
 
+## Before submission
 
-Once a release is ready to be made follow the instructions in [Creating a release](#creating-a-release).
-
-## In this release <a id='in-this-release'></a>
-
-Items are prefixed with either [new] or [fix] if applicable for styling within the changelog on our [website](https://fluorescent.co/help/stiletto/changelog).
-If an item is linked to a nolt issue append the item with a nolt link: "[new] Add custom section padding [Nolt](https://lorenza-theme.nolt.io/)"
-
-Exmaple changes:
-
-- _[new] Description of change_
-- _[fix] Description of change_
-- _Other description of change_
-
-Changes
-
-- [new]
-
-## Submitting a release
-
-Before merging we will need to submit our new updates to Shopify and have them approved.
-
-Using this branch follow the following instructions:
-
-## Todo before submission
-
-- [ ] Update `release-notes.md` to reflect the list of "Changes" beneath [In this release](#in-this-release). This will include categorizing them and adding a version description
+- [ ] Update `release-notes.md` to reflect the changes in this update. The change log items can be categorized. Further information can be found [here](https://www.notion.so/fluorescentdesigninc/release-notes-md-33639b74d76b425cab224b8b6e09b95f?pvs=4)
 - [ ] Update the version number in package.json
 - [ ] Update the version number in this pull requests title: `Next release, bump theme version v{{ current_version_number }} -> v.{{ new_version_number }}`
-- [ ] Run `yarn package` locally and install the theme via the zip created. Ensure the version number is accurate and the release not changes are in place
-- [ ] Attach the zip file to this pull request under [Theme file](#theme-file)
-- [ ] Submit to Shopify through the Fluorescent Design Inc. partners dashboard. Copy the [In this release](#in-this-release) changes into the update notes
-- [ ] Update the _Submitted to Shopify date_ under [submission-date](#submission-date)
 
-## Theme file<a id='theme-file'></a>
+## Submission
+
+Once the release is ready to be submitted to Shopify follow the steps at [Submitting a theme update](https://www.notion.so/fluorescentdesigninc/Submitting-a-theme-update-8fba3c6a4e2f48479082e1f0a25918b3?pvs=4).
+
+## After submission
+
+- [ ] Update the _Submitted to Shopify date_ under [submission-date](#submission-date)
+- [ ] Upload the theme zip replacing _theme.zip_ under [theme-file](#theme-file)
+- [ ] Get Shopify approval by way of Shopify publishing the theme update
+
+## After approval
+
+Once Shopify has approved and published the new theme version follow the steps at [Making a theme release](https://www.notion.so/fluorescentdesigninc/Making-a-theme-release-5c1cdb412c2a4e52b6ce604ec77329c3?pvs=4).
 
 ## Submission date<a id='submission-date'></a>
 
 _Submitted to Shopify {{ date }}_
+## Theme file<a id='theme-file'></a>
 
-## Creating a release<a id='creating-a-release'></a>
-
-Once these changes are approved by Shopify and released we can cut a github release.
-
-## Todo before merge
-
-- [ ] Shopify has approved the new theme update and has published the new version
-- [ ] Copy the list of changes from [In this release](#in-this-release)
-
-## Post merge release steps
-
-- Then create a new github release pasting in the contents copied above
-- The new release tag will be  `v{{ new_version_number }}`
-- The new release title will be `{{ new_version_number }}`
-- Paste the release notes copied above into the description. Ensure they are displayed as list items: `- [new] Add feature`
-- Add the approved theme zip found under [Theme file](#theme-file) into the release binaries
-- Publish
+_{{ theme }}.zip_
