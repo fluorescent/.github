@@ -8,9 +8,10 @@ Please go the the `Preview` tab and select the appropriate sub-template:
 
 ## Theme templates
 
+* [Feature](?expand=1&template=theme_pull_request.md)
+* [Bug fix](?expand=1&template=theme_bug_fix.md)
 * [Next release](?expand=1&template=theme_next_release.md)
 * [Hotfix](?expand=1&template=theme_hot_fix.md)
-* [Standard pull request](?expand=1&template=theme_standard_pull_request.md)
 
 ---
 
