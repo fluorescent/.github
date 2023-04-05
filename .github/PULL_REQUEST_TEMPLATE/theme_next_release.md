@@ -10,7 +10,7 @@ See [Next-release](https://www.notion.so/fluorescentdesigninc/Next-release-941a3
 - [fix] Fix broken feature
 - Update random feature
 
-_Delete this and the above examples the above when adding real change log items_
+_Delete this line and the above examples when adding real change log items_
 
 ## Before submission
 
@@ -20,7 +20,12 @@ _Delete this and the above examples the above when adding real change log items_
 
 ## Submission
 
-Once the release is ready to be submitted to Shopify follow the steps at [Submitting a theme update](https://www.notion.so/fluorescentdesigninc/Submitting-a-theme-update-8fba3c6a4e2f48479082e1f0a25918b3?pvs=4).
+Once the release is ready to be submitted to Shopify follow the steps at [Submitting a theme update](https://www.notion.so/fluorescentdesigninc/Submitting-a-theme-update-8fba3c6a4e2f48479082e1f0a25918b3?pvs=4) and update the following tasks on completion.
+
+- [ ] Ensure `release-notes.md` has been updated.
+- [ ] Ensure the version number has been updated, and is visible on templates displaying `[[versionNumber]]` (check `theme.liquid` in the `/build` folder after running `yarn build`)
+- [ ] Test the theme on a store by uploading the theme zip. Make sure it loads properly, and that you can complete a purchase flow (navigate to a product, add to cart, and checkout)
+- [ ] Submit to Shopify
 
 ## After submission
 
