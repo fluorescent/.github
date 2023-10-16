@@ -4,15 +4,9 @@ See [Next-release](https://www.notion.so/fluorescentdesigninc/Next-release-941a3
 
 - [ ] Update this pull request title to `Next release, bump theme version v{{ current_version_number }} -> v.x.x.x`
 
-## Change log
+## Changelog
 
-- [new] Add new feature
-- [fix] Fix broken feature
-- Update random feature
-
-_Delete this line the above examples when adding real change log items_
-
-_Add list items describing the changes above. If applicable prefix items with [new] to denote new features or [fix] for bug fixes._
+Linear will handle grouping all Changelog items, but please ensure that your tickets have individual changelog items before merging.
 
 ## Before submission
 
@@ -47,6 +41,7 @@ Once Shopify has approved and published the new theme version follow the steps a
 ## Submission date
 
 _Submitted to Shopify {{ date }}_
+
 ## Theme file
 
 _{{ theme }}.zip_
