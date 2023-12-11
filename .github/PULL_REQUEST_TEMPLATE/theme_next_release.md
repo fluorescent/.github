@@ -2,7 +2,7 @@
 
 See [Next-release](https://www.notion.so/fluorescentdesigninc/Next-release-941a304da9674a549a63a2c93743ecff?pvs=4) for full documentation.
 
-- [ ] Update this pull request title to `Next release, bump theme version v{{ current_version_number }} -> v.x.x.x`
+- [ ] Update this pull request title to `Next release, bump theme version v{{ current_version_number }} -> vX.X.X`
 
 ## Changelog
 
@@ -20,7 +20,7 @@ Once this release is ready to be submitted to Shopify follow the steps at [Submi
 
 - [ ] Ensure `release-notes.md` has been updated. This includes the version number, description, and the categorized change log items.
 - [ ] Ensure the version number has been updated in `package.json`, and is visible on templates displaying `[[versionNumber]]` (check `theme.liquid` in the `/build` folder after running `yarn build`)
-- [ ] After creating a theme.zip using `yarn package`. Manually test the theme on a store by uploading the theme zip. Make sure it loads properly, and that you can complete a purchase flow (navigate to a product, add to cart, and checkout)
+- [ ] After creating a theme.zip using `yarn package` (be sure to run `yarn` first). Manually test the theme on a store by uploading the theme zip. Make sure it loads properly, and that you can complete a purchase flow (navigate to a product, add to cart, and checkout)
 - [ ] Submit to Shopify
 
 ## After submission
