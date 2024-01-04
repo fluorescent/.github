@@ -1,21 +1,21 @@
-## Before creation *
+## Before creation
 
 - [ ] Add a descriptive title summarizing the work done
 - [ ] Set base merge target if not 'main'
 
 ---
 
-## Summary of bug *
+## Summary of bug
 
 _Please include a summary of bug. Please also include relevant context._
 
 _Closes {{ LINEAR-ISSUE-ID }}_
 
-## How to reproduce *
+## How to reproduce
 
 _Steps to reproduce the bug_
 
-## Solution *
+## Solution
 
 _What is the solution_
 
@@ -27,7 +27,7 @@ _Place screenshots here if applicable_
 
 _Store links here if applicable_
 
-## Checklist *
+## Checklist
 
 - [ ] This fix has been tested on desktop
 - [ ] This fix has been tested on mobile

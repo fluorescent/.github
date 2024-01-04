@@ -1,4 +1,4 @@
-## Before creation *
+## Before creation
 
 - [ ] Add a descriptive title summarizing the work done
 - [ ] Set base merge target if not 'main'
@@ -7,13 +7,13 @@ See [Feature](https://www.notion.so/fluorescentdesigninc/Feature-ba9697c0d5dd433
 
 ---
 
-## Summary *
+## Summary
 
 _Please include a summary of the change. Please also include relevant context._
 
 _Closes {{ LINEAR-ISSUE-ID }}_
 
-## Solution *
+## Solution
 
 _What is the potential solution_
 
