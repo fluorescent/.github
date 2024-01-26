@@ -37,7 +37,91 @@ Once this release is ready to be submitted to Shopify follow the steps at [Submi
 Once Shopify has approved and published the new theme version:
 
 - [ ] Follow the steps at [Making a theme release](https://www.notion.so/fluorescentdesigninc/Making-a-theme-release-5c1cdb412c2a4e52b6ce604ec77329c3?pvs=4).
-- [ ] Check for any related Nolt requests that are addressed by this release and change their status to "Complete".
+- [ ] Check for any Nolt requests that are addressed by this release and change their status to "Complete".
+
+### Nolt "Complete" response templates
+
+<details>
+  <summary>Cornerstone</summary>
+  <p><strong>TODO:</strong> Add the changelog link once we publish one.</p>
+  
+  ```
+  We’ve just published this feature in the newest version of Cornerstone!
+
+  Here’s where you’ll want to look for update instructions: https://cornerstone.help.fluorescent.co/theme-updates
+  If you have any questions or issues, please message our support team at help@fluorescent.co.
+
+  Thanks for your patience!
+  ```
+</details>
+
+<details>
+  <summary>Stiletto</summary>
+  
+  ```
+  We’ve just published this feature in the newest version of Stiletto!
+
+  For a complete list of changes, check out Stiletto's changelog here: https://fluorescent.co/help/stiletto/changelog
+  And here’s where you’ll want to look for update instructions: https://fluorescent.co/help/stiletto/theme-update
+  If you have any questions or issues, please message our support team at help@fluorescent.co.
+
+  Thanks for your patience!
+  ```
+</details>
+
+<details>
+  <summary>Spark</summary>
+
+  ```
+  We’ve just published this feature in the newest version of Spark!
+
+  For a complete list of changes, check out Spark's changelog here: https://fluorescent.co/help/spark/changelog
+  And here’s where you’ll want to look for update instructions: https://fluorescent.co/help/spark/theme-update
+  If you have any questions or issues, please message our support team at help@fluorescent.co.
+
+  Thanks for your patience!
+  ```
+</details>
+
+<details>
+  <summary>Lorenza</summary>
+  
+  ```
+  We’ve just published this feature in the newest version of Lorenza!
+  For a complete list of changes, check out Spark's changelog here: https://fluorescent.co/help/lorenza/changelog
+  And here’s where you’ll want to look for update instructions: https://fluorescent.co/help/lorenza/theme-update
+  If you have any questions or issues, please message our support team at help@fluorescent.co.
+  Thanks for your patience!
+  ```
+</details>
+
+<details>
+  <summary>Ira</summary>
+  
+  ```
+  We’ve just published this feature in the newest version of Ira!
+
+  For a complete list of changes, check out Spark's changelog here: https://fluorescent.co/help/ira/changelog
+  And here’s where you’ll want to look for update instructions: https://fluorescent.co/help/ira/theme-update
+  If you have any questions or issues, please message our support team at help@fluorescent.co.
+
+  Thanks for your patience!
+  ```
+</details>
+
+<details>
+  <summary>Context</summary>
+  
+  ```
+  We’ve just published this feature in the newest version of Context!
+
+  For a complete list of changes, check out Spark's changelog here: https://fluorescent.co/help/context/changelog
+  And here’s where you’ll want to look for update instructions: https://fluorescent.co/help/context/theme-update
+  If you have any questions or issues, please message our support team at help@fluorescent.co.
+
+  Thanks for your patience!
+  ```
+</details>
 
 ---
 
