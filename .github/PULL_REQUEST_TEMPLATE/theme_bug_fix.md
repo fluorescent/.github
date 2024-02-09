@@ -32,3 +32,4 @@ _Store links here if applicable_
 - [ ] This fix has been tested on desktop
 - [ ] This fix has been tested on mobile
 - [ ] This fix does not cause regression elsewhere in the theme
+- [ ] If required, `release-notes.md` has been updated
