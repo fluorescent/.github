@@ -33,4 +33,6 @@ _Store links here if applicable_
 
 ## Checklist
 
-- [ ] Use as a place to keep track of tasks to be completed before merge: Add translation, Get design approval, etc
+- [ ] If required, `release-notes.md` has been updated
+
+_Add any other tasks that should be completed before merging (ie. `Babel updates`, `Design approval`, etc.)._
