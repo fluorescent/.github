@@ -42,13 +42,28 @@ Once Shopify has approved and published the new theme version:
 ### Nolt "Complete" response templates
 
 <details>
-  <summary>Cornerstone</summary>
+  <summary>Eclipse</summary>
   <p><strong>TODO:</strong> Add the changelog link once we publish one.</p>
   
   ```
   We’ve just published this feature in the newest version of Cornerstone!
 
-  Here’s where you’ll want to look for update instructions: https://cornerstone.help.fluorescent.co/theme-updates
+  For a complete list of changes, check out Eclipse's changelog here: https://help.fluorescent.co/eclipse/readme/changelog
+  And here’s where you’ll want to look for update instructions: https://cornerstone.help.fluorescent.co/theme-updates
+  If you have any questions or issues, please message our support team at help@fluorescent.co.
+
+  Thanks for your patience!
+  ```
+</details>
+
+<details>
+  <summary>Cornerstone</summary>
+  
+  ```
+  We’ve just published this feature in the newest version of Cornerstone!
+
+  For a complete list of changes, check out Cornerstone's changelog here: https://help.fluorescent.co/cornerstone/readme/changelog
+  And here’s where you’ll want to look for update instructions: https://cornerstone.help.fluorescent.co/theme-updates
   If you have any questions or issues, please message our support team at help@fluorescent.co.
 
   Thanks for your patience!
@@ -91,34 +106,6 @@ Once Shopify has approved and published the new theme version:
   For a complete list of changes, check out Spark's changelog here: https://fluorescent.co/help/lorenza/changelog
   And here’s where you’ll want to look for update instructions: https://fluorescent.co/help/lorenza/theme-update
   If you have any questions or issues, please message our support team at help@fluorescent.co.
-  Thanks for your patience!
-  ```
-</details>
-
-<details>
-  <summary>Ira</summary>
-  
-  ```
-  We’ve just published this feature in the newest version of Ira!
-
-  For a complete list of changes, check out Spark's changelog here: https://fluorescent.co/help/ira/changelog
-  And here’s where you’ll want to look for update instructions: https://fluorescent.co/help/ira/theme-update
-  If you have any questions or issues, please message our support team at help@fluorescent.co.
-
-  Thanks for your patience!
-  ```
-</details>
-
-<details>
-  <summary>Context</summary>
-  
-  ```
-  We’ve just published this feature in the newest version of Context!
-
-  For a complete list of changes, check out Spark's changelog here: https://fluorescent.co/help/context/changelog
-  And here’s where you’ll want to look for update instructions: https://fluorescent.co/help/context/theme-update
-  If you have any questions or issues, please message our support team at help@fluorescent.co.
-
   Thanks for your patience!
   ```
 </details>
