@@ -39,6 +39,12 @@ Once Shopify has approved and published the new theme version:
 - [ ] Follow the steps at [Making a theme release](https://www.notion.so/fluorescentdesigninc/Making-a-theme-release-5c1cdb412c2a4e52b6ce604ec77329c3?pvs=4).
 - [ ] Check for any Nolt requests that are addressed by this release and change their status to "Complete".
 
+### Nolt requests
+
+A list of any Nolt requests that are addressed by this release.
+
+- 
+
 ### Nolt "Complete" response templates
 
 <details>
