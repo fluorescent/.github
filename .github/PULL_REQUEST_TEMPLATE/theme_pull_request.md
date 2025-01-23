@@ -27,12 +27,10 @@ _What is a good place to start the review (e.g., specific file/method?)_
 
 _Place screenshots here if applicable_
 
-## Store links
-
-_Store links here if applicable_
+## Nolt link(s)
 
 ## Checklist
 
 - [ ] If required, `release-notes.md` has been updated
-
-_Add any other tasks that should be completed before merging (ie. `Babel updates`, `Design approval`, etc.)._
+- [ ] If required, have you added the Nolt link(s) to the next release PR
+- [ ] If required, have translations been updated
