@@ -6,11 +6,11 @@ See [Next-release](https://www.notion.so/fluorescentdesigninc/Next-release-941a3
 
 ## Changelog
 
-Linear will handle grouping all Changelog items, but please ensure that your tickets have individual changelog items before merging.
+Each issue's PR handles adding to the release notes file (src/release-notes.md). At this point the list should be complete and just needs a pass to make sure everything is accurately included and correctly formatted.
 
 ## Before submission
 
-- [ ] Update `release-notes.md` to reflect the changes in this update. This includes updating the version number, description, and categorizing change log items. Follow the instructions at [Updating release-notes.md](https://www.notion.so/fluorescentdesigninc/Updating-release-notes-md-33639b74d76b425cab224b8b6e09b95f)
+- [ ] Update `release-notes.md` to reflect the changes in this update. This includes updating the version number (see linked doc), description, and categorizing change log items. Follow the instructions at [Updating release-notes.md](https://www.notion.so/fluorescentdesigninc/Updating-release-notes-md-33639b74d76b425cab224b8b6e09b95f)
 - [ ] Update the version number in `package.json`
 - [ ] Update the version number in this pull requests title: `Next release, bump theme version v{{ current_version_number }} -> v.{{ new_version_number }}`
 
