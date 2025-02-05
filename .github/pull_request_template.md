@@ -11,7 +11,7 @@ Please go the the `Preview` tab and select the appropriate sub-template:
 * [Parent feature](?expand=1&template=theme_parent_feature.md&label=parent)
 * [Feature](?expand=1&template=theme_pull_request.md)
 * [Bug fix](?expand=1&template=theme_bug_fix.md)
-* [Next release](?expand=1&template=theme_next_release.md&label=next+release)
+* [Next release](?expand=1&template=theme_next_release.md&label=next+release,version+bump:+maintenance)
 
 ---
 
