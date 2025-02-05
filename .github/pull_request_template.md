@@ -8,10 +8,10 @@ Please go the the `Preview` tab and select the appropriate sub-template:
 
 ## Theme templates
 
-* [Parent feature](?expand=1&template=theme_parent_feature.md&labels=parent)
+* [Parent feature](?expand=1&labels=parent&template=theme_parent_feature.md)
 * [Feature](?expand=1&template=theme_pull_request.md)
 * [Bug fix](?expand=1&template=theme_bug_fix.md)
-* [Next release](?expand=1&template=theme_next_release.md&labels=next+release,version+bump:+maintenance)
+* [Next release](?expand=1&template=theme_next_release.md&labels=next+release,version+bump+-+maintenance)
 
 ---
 
