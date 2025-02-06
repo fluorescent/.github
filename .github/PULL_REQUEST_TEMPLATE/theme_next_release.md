@@ -1,6 +1,6 @@
 # Usage
 
-Refer to [Next-release](https://www.notion.so/fluorescentdesigninc/GitHub-branches-941a304da9674a549a63a2c93743ecff?pvs=4#191835388f1c80ebbb23dd788fc61668) for full documentation.
+Refer to [Next release branches](https://www.notion.so/fluorescentdesigninc/GitHub-branches-941a304da9674a549a63a2c93743ecff?pvs=4#191835388f1c80ebbb23dd788fc61668) for full documentation.
 
 - [ ] Update this pull request title to `Next release, bump theme version v{{ current_version_number }} -> vX.X.X`
 
