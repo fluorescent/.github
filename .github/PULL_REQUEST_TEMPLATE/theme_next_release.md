@@ -1,22 +1,20 @@
 # Usage
 
-See [Next-release](https://www.notion.so/fluorescentdesigninc/Next-release-941a304da9674a549a63a2c93743ecff?pvs=4) for full documentation.
+Refer to [Next-release]([https://www.notion.so/fluorescentdesigninc/Next-release-941a304da9674a549a63a2c93743ecff?pvs=4](https://www.notion.so/fluorescentdesigninc/GitHub-branches-941a304da9674a549a63a2c93743ecff?pvs=4#191835388f1c80ebbb23dd788fc61668)) for full documentation.
 
 - [ ] Update this pull request title to `Next release, bump theme version v{{ current_version_number }} -> vX.X.X`
 
-## Changelog
-
-Each issue's PR handles adding to the release notes file (src/release-notes.md). At this point the list should be complete and just needs a pass to make sure everything is accurately included and correctly formatted.
-
 ## Before submission
 
-- [ ] Update `release-notes.md` to reflect the changes in this update. This includes updating the version number (see linked doc), description, and categorizing change log items. Follow the instructions at [Updating release-notes.md](https://www.notion.so/fluorescentdesigninc/Updating-release-notes-md-33639b74d76b425cab224b8b6e09b95f)
+- [ ] Determine the new version number. Refer to [Theme versioning](https://www.notion.so/fluorescentdesigninc/Theme-versioning-191835388f1c801d8846f5bf74500bcf?pvs=4) for more information.
+- [ ] Update `release-notes.md` to reflect the changes in this update.
+  - Each issue's PR handles adding to the release notes file (`src/release-notes.md`). At this point the list should be complete and just needs a pass to make sure everything is accurately included and correctly formatted. Mainly, this means updating the version number and description. Refer to [Release notes](https://www.notion.so/fluorescentdesigninc/Release-notes-33639b74d76b425cab224b8b6e09b95f?pvs=4#192835388f1c802dafefe31a13d246ce) for more information.
 - [ ] Update the version number in `package.json`
 - [ ] Update the version number in this pull requests title: `Next release, bump theme version v{{ current_version_number }} -> v.{{ new_version_number }}`
 
 ## Submission
 
-Once this release is ready to be submitted to Shopify follow the steps at [Submitting a theme update](https://www.notion.so/fluorescentdesigninc/Submitting-a-theme-update-8fba3c6a4e2f48479082e1f0a25918b3?pvs=4) and update the following tasks on completion.
+Once this release is ready to be submitted to Shopify follow the steps at [Submitting a theme update](https://www.notion.so/fluorescentdesigninc/Submitting-a-theme-update-8fba3c6a4e2f48479082e1f0a25918b3?pvs=4#192835388f1c8004b948f658659082c4) and update the following tasks on completion.
 
 - [ ] Ensure `release-notes.md` has been updated. This includes the version number, description, and the categorized change log items.
 - [ ] Ensure the version number has been updated in `package.json`, and is visible on templates displaying `[[versionNumber]]` (check `theme.liquid` in the `/build` folder after running `yarn build`)
@@ -36,7 +34,7 @@ Once this release is ready to be submitted to Shopify follow the steps at [Submi
 
 Once Shopify has approved and published the new theme version:
 
-- [ ] Follow the steps at [Making a theme release](https://www.notion.so/fluorescentdesigninc/Making-a-theme-release-5c1cdb412c2a4e52b6ce604ec77329c3?pvs=4).
+- [ ] Follow the steps at [Finalizing a theme update]([https://www.notion.so/fluorescentdesigninc/Making-a-theme-release-5c1cdb412c2a4e52b6ce604ec77329c3?pvs=4](https://www.notion.so/fluorescentdesigninc/Submitting-a-theme-update-8fba3c6a4e2f48479082e1f0a25918b3?pvs=4#e78e069dd19749e2b0ce2adb8e2fb8ac)).
 - [ ] Check for any Nolt requests that are addressed by this release and change their status to "Complete".
 
 ### Nolt requests
@@ -45,7 +43,7 @@ A list of any Nolt requests that are addressed by this release.
 
 - 
 
-### Nolt "Complete" response templates
+#### Nolt "Complete" response templates
 
 <details>
   <summary>Eclipse</summary>
