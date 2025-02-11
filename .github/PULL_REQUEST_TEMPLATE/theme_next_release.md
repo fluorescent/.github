@@ -34,7 +34,7 @@ Once this release is ready to be submitted to Shopify follow the steps at [Submi
 
 Once Shopify has approved and published the new theme version:
 
-- [ ] Follow the steps at [Finalizing a theme update]([https://www.notion.so/fluorescentdesigninc/Making-a-theme-release-5c1cdb412c2a4e52b6ce604ec77329c3?pvs=4](https://www.notion.so/fluorescentdesigninc/Submitting-a-theme-update-8fba3c6a4e2f48479082e1f0a25918b3?pvs=4#e78e069dd19749e2b0ce2adb8e2fb8ac)).
+- [ ] Follow the steps at [Finalizing a theme update](https://www.notion.so/fluorescentdesigninc/Submitting-a-theme-update-8fba3c6a4e2f48479082e1f0a25918b3?pvs=4#e78e069dd19749e2b0ce2adb8e2fb8ac).
 - [ ] Check for any Nolt requests that are addressed by this release and change their status to "Complete".
 
 ### Nolt requests
